@@ -1,0 +1,4 @@
+django-money
+phonenumbers
+django-phonenumber-field
+Django
